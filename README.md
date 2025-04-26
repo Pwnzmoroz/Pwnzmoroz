@@ -1,46 +1,39 @@
-<h1 align="center">Привет, я Дмитрий Морозов! 👋</h1>
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
 
-<p align="center">
+<h1 style="color:white;">Привет, я Дмитрий Морозов! 👋</h1>
+
+<p style="color:white;">
   QA Engineer | Ручное и автоматизированное тестирование | Playwright + TypeScript
 </p>
 
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="400" alt="Bug Hunter" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Available_for_work-00C853?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000&color=00C853" />
 </p>
 
 ---
 
-## 📑 Оглавление
-
-- [🛠 Мой стек технологий](#-мой-стек-технологий)
-- [📋 Чем я занимаюсь](#-чем-я-занимаюсь)
-- [📌 Мои проекты](#-мои-проекты)
-- [📬 Связаться со мной](#-связаться-со-мной)
-
----
-
 ## 🛠 Мой стек технологий
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Functional_Testing-292929?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Regression_Testing-292929?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Smoke_Testing-292929?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_API_Testing-292929?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-292929?style=for-the-badge&logo=postgresql&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Git-292929?style=for-the-badge&logo=git&logoColor=red" />
-  <img src="https://img.shields.io/badge/JavaScript-292929?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/TypeScript-292929?style=for-the-badge&logo=typescript&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Playwright-292929?style=for-the-badge&logo=playwright&logoColor=green" />
-  <img src="https://img.shields.io/badge/Postman-292929?style=for-the-badge&logo=postman&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Jira-292929?style=for-the-badge&logo=jira&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Confluence-292929?style=for-the-badge&logo=confluence&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Swagger-292929?style=for-the-badge&logo=swagger&logoColor=green" />
-  <img src="https://img.shields.io/badge/DevTools-292929?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Charles_Proxy-292929?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/Functional_Testing-0d1117?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression_Testing-0d1117?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smoke_Testing-0d1117?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API_Testing-0d1117?style=for-the-badge&logo=postman&logoColor=orange" />
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=red" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=green" />
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Confluence-0d1117?style=for-the-badge&logo=confluence&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=green" />
+  <img src="https://img.shields.io/badge/DevTools-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Charles_Proxy-0d1117?style=for-the-badge" />
 </p>
 
 ---
@@ -65,12 +58,14 @@
 
 ## 📬 Связаться со мной
 
-<p align="center">
+<p>
   <a href="https://t.me/pwnzmoroz">
-    <img src="https://img.shields.io/badge/Telegram-292929?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
 
 > ⚡ Люблю чистый код, надёжные тесты и стабильные процессы.
+
+</div>
