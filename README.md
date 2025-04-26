@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/H3HYJj2.gif" width="400" alt="Bug Hunting" />
+  <img src="https://media.tenor.com/xWBowKIiMzIAAAAC/monkey-developer.gif" width="400" alt="Bug Hunter" />
 </p>
 
 <p align="center">
@@ -24,6 +24,7 @@
 ---
 
 ## 🛠 Мой стек технологий
+
 <p align="center">
   <img src="https://img.shields.io/badge/Functional_Testing-292929?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Regression_Testing-292929?style=for-the-badge" />
