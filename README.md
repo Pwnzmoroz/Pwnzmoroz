@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTk1c2ExNnJrN3N4M3pxYjBkZmlwa3B0NzhvOXpmbmdxd2E1aGp1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="QA Testing" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="Bug Hunting" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Available_for_work-00C853?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000&color=00C853" />
 </p>
 
 ---
