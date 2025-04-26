@@ -15,7 +15,6 @@
 - [🛠 Мой стек технологий](#-мой-стек-технологий)
 - [📋 Чем я занимаюсь](#-чем-я-занимаюсь)
 - [📌 Мои проекты](#-мои-проекты)
-- [📈 GitHub Статистика](#-github-статистика)
 - [📬 Связаться со мной](#-связаться-со-мной)
 
 ---
@@ -56,15 +55,6 @@
 
 - [**Crossbrowser Scroll Tests (Playwright)**](https://github.com/Pwnzmoroz/playwright-crossbrowser-scroll) — автотесты скроллинга в разных браузерах.
 - [**Saucedemo E2E Tests (Playwright)**](https://github.com/Pwnzmoroz/saucedemo-e2e-tests) — сквозные E2E-тесты интернет-магазина.
-
----
-
-## 📈 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pwnzmoroz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwnzmoroz&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
 
 ---
 
