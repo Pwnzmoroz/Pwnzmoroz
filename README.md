@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTk1c2ExNnJrN3N4M3pxYjBkZmlwa3B0NzhvOXpmbmdxd2E1aGp1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="QA Testing" />
+  <img src="https://media.tenor.com/Is6y3pGk6VwAAAAM/bug-hunter-qa.gif" width="400" alt="Bug Hunting" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Available_for_work-00C853?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000&color=00C853" />
 </p>
 
 ---
@@ -15,7 +19,6 @@
 - [🛠 Мой стек технологий](#-мой-стек-технологий)
 - [📋 Чем я занимаюсь](#-чем-я-занимаюсь)
 - [📌 Мои проекты](#-мои-проекты)
-- [📈 GitHub Статистика](#-github-статистика)
 - [📬 Связаться со мной](#-связаться-со-мной)
 
 ---
@@ -56,15 +59,6 @@
 
 - [**Crossbrowser Scroll Tests (Playwright)**](https://github.com/Pwnzmoroz/playwright-crossbrowser-scroll) — автотесты скроллинга в разных браузерах.
 - [**Saucedemo E2E Tests (Playwright)**](https://github.com/Pwnzmoroz/saucedemo-e2e-tests) — сквозные E2E-тесты интернет-магазина.
-
----
-
-## 📈 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pwnzmoroz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwnzmoroz&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
 
 ---
 
