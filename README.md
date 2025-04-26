@@ -1,4 +1,10 @@
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
+<div align="center" style="background: black; padding: 30px; border-radius: 12px; position: relative; overflow: hidden;">
+
+<!-- Падающие баги -->
+<img src="https://i.gifer.com/3gsa.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.1; object-fit: cover; z-index: 0;" alt="Falling Bugs" />
+
+<!-- Контент -->
+<div style="position: relative; z-index: 1;">
 
 <h1 style="color:white;">Привет, я Дмитрий Морозов! 👋</h1>
 
@@ -19,21 +25,21 @@
 ## 🛠 Мой стек технологий
 
 <p>
-  <img src="https://img.shields.io/badge/Functional_Testing-0d1117?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regression_Testing-0d1117?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/Smoke_Testing-0d1117?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API_Testing-0d1117?style=for-the-badge&logo=postman&logoColor=orange" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=red" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=green" />
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Confluence-0d1117?style=for-the-badge&logo=confluence&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=green" />
-  <img src="https://img.shields.io/badge/DevTools-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Charles_Proxy-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Functional_Testing-black?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression_Testing-black?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smoke_Testing-black?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API_Testing-black?style=for-the-badge&logo=postman&logoColor=orange" />
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Playwright-black?style=for-the-badge&logo=playwright&logoColor=green" />
+  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Confluence-black?style=for-the-badge&logo=confluence&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagger&logoColor=green" />
+  <img src="https://img.shields.io/badge/DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Charles_Proxy-black?style=for-the-badge" />
 </p>
 
 ---
@@ -60,7 +66,7 @@
 
 <p>
   <a href="https://t.me/pwnzmoroz">
-    <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
@@ -68,4 +74,5 @@
 
 > ⚡ Люблю чистый код, надёжные тесты и стабильные процессы.
 
+</div>
 </div>
