@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/Is6y3pGk6VwAAAAM/bug-hunter-qa.gif" width="400" alt="Bug Hunting" />
+  <img src="https://i.imgur.com/H3HYJj2.gif" width="400" alt="Bug Hunting" />
 </p>
 
 <p align="center">
