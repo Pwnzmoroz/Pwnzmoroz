@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Swagger-292929?style=for-the-badge&logo=swagger&logoColor=green" />
   <img src="https://img.shields.io/badge/DevTools-292929?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Charles_Proxy-292929?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="C#" height="28" style="margin: 0 4px;" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/c-sharp-4-1175109.png" alt="C#" height="28" style="margin: 0 4px;" />
   
 </p>
