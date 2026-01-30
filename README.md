@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Дмитрий Морозов! 👋</h1>
 
 <p align="center">
-  QA Engineer | Ручное и автоматизированное тестирование | Playwright + TypeScript
+  QA Engineer | Ручное и автоматизированное тестирование | С#
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 ## 📬 Связаться со мной
 
 <p align="center">
-  <a href="https://t.me/pwnzmoroz">
+  <a href="https://t.me/QAmoroz">
     <img src="https://img.shields.io/badge/Telegram-292929?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
