@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/Swagger-292929?style=for-the-badge&logo=swagger&logoColor=green" />
   <img src="https://img.shields.io/badge/DevTools-292929?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Charles_Proxy-292929?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C_Sharp-292929?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  
 </p>
 
 ---
